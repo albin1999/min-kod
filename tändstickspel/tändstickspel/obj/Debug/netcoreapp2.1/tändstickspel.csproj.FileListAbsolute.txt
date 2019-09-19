@@ -1,0 +1,11 @@
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\bin\Debug\netcoreapp2.1\tändstickspel.deps.json
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\bin\Debug\netcoreapp2.1\tändstickspel.runtimeconfig.json
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\bin\Debug\netcoreapp2.1\tändstickspel.runtimeconfig.dev.json
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\bin\Debug\netcoreapp2.1\tändstickspel.dll
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\bin\Debug\netcoreapp2.1\tändstickspel.pdb
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\obj\Debug\netcoreapp2.1\tändstickspel.csprojAssemblyReference.cache
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\obj\Debug\netcoreapp2.1\tändstickspel.csproj.CoreCompileInputs.cache
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\obj\Debug\netcoreapp2.1\tändstickspel.AssemblyInfoInputs.cache
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\obj\Debug\netcoreapp2.1\tändstickspel.AssemblyInfo.cs
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\obj\Debug\netcoreapp2.1\tändstickspel.dll
+C:\Users\albin\source\repos\tändstickspel\tändstickspel\obj\Debug\netcoreapp2.1\tändstickspel.pdb
