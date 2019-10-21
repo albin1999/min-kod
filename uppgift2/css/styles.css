@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box; 
+}
+body{
+    background-color: MediumTurquoise;
+}
+#header{
+    text-align: center;
+    background-color: DodgerBlue;
+    width: 100%;
+    height: 100px;
+}
+#header nav{
+    background-color: Aquamarine;
+    
+    margin-top: 37px;
+    height: 30px;
+    width: 97%;
+    text-align: center;
+    margin-left: 1.5%;
+}
+#header div{
+    margin-top: 10px;
+}
+
+#shop{
+    overflow: hidden;
+}
+#shop .main{
+    text-align: center;
+    float: left;
+    width: 65%;
+    background-color: DodgerBlue;
+    margin-top: 5px;
+    height: 200px;
+}
+
+#shop .main h2{
+    text-align: center;
+
+}
+#shop .main p{
+    text-align: center;
+    background-color: Aquamarine;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 125px;
+    vertical-align: middle;
+    line-height: 100px; 
+}
+#shop .aside{
+    height: 200px;
+    text-align: center;
+    float: left;
+    width: 34.5%;
+    background-color: DodgerBlue;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#shop .aside li{
+    height: 125px;
+    vertical-align: middle;
+    line-height: 100px;
+    text-align: center;
+    background-color: Aquamarine;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+footer{
+    text-align: center;
+    background-color: DodgerBlue;
+    height: 100px;
+}
+
+
